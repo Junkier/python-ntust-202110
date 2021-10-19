@@ -24,4 +24,3 @@
       C:\Users\Jeff\Anaconda3\Library\bin ; C:\Users\Jeff\Anaconda3\Scripts
 
 其中 「C:\Users\Jeff」為 Anaconda3 安裝路徑 , 請更改成自行安裝路徑
-
